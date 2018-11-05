@@ -1,0 +1,10 @@
+AnyQt==0.0.8
+PyForms==3.0.0
+PyInstaller==3.3.1
+PyOpenGL==3.1.0
+pyparsing==2.2.0
+PyQt5==5.10.1
+PyQt5-sip==4.19.12
+python-apt==1.1.0b1+ubuntu0.16.4.2
+python-bitcoinrpc==1.0
+python-dateutil==2.7.3
